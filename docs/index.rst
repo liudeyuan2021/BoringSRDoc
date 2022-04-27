@@ -69,14 +69,14 @@ Mitsuba 2: A Retargetable Forward and Inverse Renderer
     src/plugin_reference/intro
     .. generated/plugins
 
-.. toctree::
-    :maxdepth: 1
-    :caption: API reference
+.. .. toctree::
+..     :maxdepth: 1
+..     :caption: API reference
 
-    src/api_reference/intro
-    .. generated/core_api
-    .. generated/render_api
-    .. generated/python_api
+..     src/api_reference/intro
+..     generated/core_api
+..     generated/render_api
+..     generated/python_api
 
 .. toctree::
     :maxdepth: 1
