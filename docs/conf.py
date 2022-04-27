@@ -106,9 +106,7 @@ language = None
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['.build', 'release.rst',
-                    'src/plugin_reference/section_*.rst',
-                    'docs_api/*', 'generated/extracted_rst_api.rst']
+exclude_patterns = ['build', 'release.rst', 'docs_api/*']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
