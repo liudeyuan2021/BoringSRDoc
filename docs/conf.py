@@ -359,12 +359,13 @@ build_dir = os.path.join(os.path.dirname(
 
 
 def custom_step(app):
-    sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-    import generate_plugin_doc
+    # sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+    # import generate_plugin_doc
 
-    if not os.path.exists(build_dir):
-        os.mkdir(build_dir)
-    generate_plugin_doc.generate(build_dir)
+    # if not os.path.exists(build_dir):
+    #     os.mkdir(build_dir)
+    # generate_plugin_doc.generate(build_dir)
+    pass
 
 
 # -- Register event callbacks ----------------------------------------------
