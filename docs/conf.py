@@ -78,9 +78,9 @@ rst_prolog = r"""
 master_doc = 'index'
 
 # General information about the project.
-project = 'mitsuba2'
-copyright = '2021, Realistic Graphics Lab (RGL), EPFL'
-author = 'Realistic Graphics Lab, EPFL'
+project = 'sr'
+copyright = '2022, Liu Deyuan'
+author = 'Liu Deyuan'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -106,7 +106,7 @@ language = None
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['build', 'release.rst', 'docs_api/*']
+exclude_patterns = ['build']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -171,7 +171,7 @@ Path('zz_bibliography.rst').touch()
 
 # Guzzle theme options (see theme.conf for more information)
 html_theme_options = {
-    "project_nav_name": "Mitsuba 2"
+    "project_nav_name": "SR"
 }
 
 # Custom sidebar templates, maps document names to template names.
@@ -266,7 +266,7 @@ html_show_sourcelink = False
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'mitsuba2_doc'
+htmlhelp_basename = 'sr_doc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -288,8 +288,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'mitsuba2.tex', 'Mitsuba 2 Documentation',
-     'Wenzel Jakob', 'manual'),
+    (master_doc, 'sr.tex', 'SR Documentation',
+     'Liu Deyuan', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -318,7 +318,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'mitsuba2', 'Mitsuba 2 Documentation',
+    (master_doc, 'sr', 'SR Documentation',
      [author], 1)
 ]
 
@@ -332,8 +332,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'mitsuba2', 'Mitsuba 2 Documentation',
-     author, 'mitsuba2', 'One line description of project.',
+    (master_doc, 'sr', 'SR Documentation',
+     author, 'sr', 'One line description of project.',
      'Miscellaneous'),
 ]
 
