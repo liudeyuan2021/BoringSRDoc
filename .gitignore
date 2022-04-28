@@ -12,6 +12,7 @@ __pycache__
 # Docs
 docs/generated/plugins.rst
 docs/build/
+docs_backup/
 
 # Other
 cmd.txt
