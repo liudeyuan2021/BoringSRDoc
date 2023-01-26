@@ -9,11 +9,11 @@ Learning VAE: `https://www.bilibili.com/video/BV13x411v7US <https://www.bilibili
 
 DivNoising Repo: `https://github.com/juglab/DivNoising <https://github.com/juglab/DivNoising>`_
 
-DivNoising Paper: `Full_Unsupervised_Diversity_Denoising_With_Convolutional_Variational_Autoencoders.pdf <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/paper/Full_Unsupervised_Diversity_Denoising_With_Convolutional_Variational_Autoencoders.pdf>`_
+DivNoising Paper: `Full_Unsupervised_Diversity_Denoising_With_Convolutional_Variational_Autoencoders.pdf <https://github.com/liudeyuan2021/BoringSRDoc/tree/master/resources/paper/Full_Unsupervised_Diversity_Denoising_With_Convolutional_Variational_Autoencoders.pdf>`_
 
 HDN Repo: `https://github.com/juglab/HDN <https://github.com/juglab/HDN>`_
 
-HDN Paper: `Interpretable_Unsupervised_Diversity_Denosing_And_Artefact_Removal.pdf <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/paper/Interpretable_Unsupervised_Diversity_Denosing_And_Artefact_Removal.pdf>`_
+HDN Paper: `Interpretable_Unsupervised_Diversity_Denosing_And_Artefact_Removal.pdf <https://github.com/liudeyuan2021/BoringSRDoc/tree/master/resources/paper/Interpretable_Unsupervised_Diversity_Denosing_And_Artefact_Removal.pdf>`_
 
 .. toctree::
     :maxdepth: 1
