@@ -51,3 +51,9 @@ SVM的训练部分的代码比较复杂，测试部分的代码比较简单，�
         * - data2npy.py、dataloader.py
           - 用于生成训练数据集的脚本
           - python data2npy.py
+        * - svm_origin.py、hog_origin.py
+          - 用于训练SVM并保存模型参数的脚本，调用的是sklearn、skimage等python package
+          - python svm_origin.py
+        * - svm_ldy.py、hog_ldy.py
+          - 自行实现的SVM测试部分代码，先写成python的形式方便测试，并且方便工程同事参照实现对应的C++版本
+          - python svm_ldy.py

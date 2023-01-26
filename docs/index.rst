@@ -15,6 +15,8 @@ HDN Repo: `https://github.com/juglab/HDN <https://github.com/juglab/HDN>`_
 
 HDN Paper: `Interpretable_Unsupervised_Diversity_Denosing_And_Artefact_Removal.pdf <https://github.com/liudeyuan2021/BoringSRDoc/tree/master/resources/paper/Interpretable_Unsupervised_Diversity_Denosing_And_Artefact_Removal.pdf>`_
 
+个人微信号: ldy2730，如果对文档有不清楚的地方，可以加我的微信问我
+
 .. toctree::
     :maxdepth: 1
     :caption: SVM
