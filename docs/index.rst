@@ -1,7 +1,7 @@
 SR Documentation
 ================
 
-Documentation and Resources: `https://github.com/liudeyuan2021/FlashDoc <https://github.com/liudeyuan2021/BoringSRDoc>`_
+Documentation and Resources: `https://github.com/liudeyuan2021/BoringSRDoc <https://github.com/liudeyuan2021/BoringSRDoc>`_
 
 SVM Repo: `https://github.com/liudeyuan2021/SVM-Scratch <https://github.com/liudeyuan2021/SVM-Scratch>`_
 
