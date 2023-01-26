@@ -3,19 +3,17 @@ SR Documentation
 
 Documentation and Resources: `https://github.com/liudeyuan2021/FlashDoc <https://github.com/liudeyuan2021/BoringSRDoc>`_
 
-.. Flash Retention Test Tools: `https://github.com/liudeyuan2021/Flash-Retention-Test-Tools <https://github.com/liudeyuan2021/Flash-Retention-Test-Tools>`_
+SVM Repo: `https://github.com/liudeyuan2021/SVM-Scratch <https://github.com/liudeyuan2021/SVM-Scratch>`_
 
-.. Flash Vibration Test Tools: `https://github.com/liudeyuan2021/Flash-Vibration-Test-Tools <https://github.com/liudeyuan2021/Flash-Vibration-Test-Tools>`_
+Learning VAE: `https://www.bilibili.com/video/BV13x411v7US <https://www.bilibili.com/video/BV13x411v7US?p=29&vd_source=64cdb7f2f17a9018891a45c57da5c45d>`_
 
-.. 调研的SSD设备信息: `SSD(v2).xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/SSD(v2).xlsx>`_
+DivNoising Repo: `https://github.com/juglab/DivNoising <https://github.com/juglab/DivNoising>`_
 
-.. 购买的设备信息: `设备清单(v2).xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/设备清单(v2).xlsx>`_
+DivNoising Paper: `Full_Unsupervised_Diversity_Denoising_With_Convolutional_Variational_Autoencoders.pdf <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/paper/Full_Unsupervised_Diversity_Denoising_With_Convolutional_Variational_Autoencoders.pdf>`_
 
-.. 补充购买的设备信息: `补充设备清单.xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/补充设备清单.xlsx>`_
+HDN Repo: `https://github.com/juglab/HDN <https://github.com/juglab/HDN>`_
 
-.. Optane测试平台的设备信息: `Optane测试平台-设备清单.xlsx <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/excel/Optane测试平台-设备清单.xlsx>`_
-
-.. FIO Documentation: `https://fio.readthedocs.io/en/latest/index.html <https://fio.readthedocs.io/en/latest/index.html>`_
+HDN Paper: `Interpretable_Unsupervised_Diversity_Denosing_And_Artefact_Removal.pdf <https://github.com/liudeyuan2021/FlashDoc/tree/master/resources/paper/Interpretable_Unsupervised_Diversity_Denosing_And_Artefact_Removal.pdf>`_
 
 .. toctree::
     :maxdepth: 1
